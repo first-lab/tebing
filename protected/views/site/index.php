@@ -1,20 +1,26 @@
-<?php
-/* @var $this SiteController */
-
-$this->pageTitle=Yii::app()->name;
-?>
-
-<h1>Selamat datang di <i><?php echo CHtml::encode(Yii::app()->name); ?></i></h1>
-
-<p>Congratulations! You have successfully created your Yii application.</p>
-
-<p>You may change the content of this page by modifying the following two files:</p>
+<p>list of function:</p>
 <ul>
-	<li>View file: <code><?php echo __FILE__; ?></code></li>
-	<li>Layout file: <code><?php echo $this->getLayoutFile('main'); ?></code></li>
+	<li>add match</li>
+	<li>add matchnews</li>
+	<li>set clubpoint</li>
+	<li>manage club</li>
+	<li>add stadium</li>
+	<li>add league/cup</li>
+	<li>add country</li>
+	<li>add club</li>
+	<li>add user</li>
+	<li>move player team</li>
+	<li>add player</li>
 </ul>
 
-<p>For more details on how to further develop this application, please read
-the <a href="http://www.yiiframework.com/doc/">documentation</a>.
-Feel free to ask in the <a href="http://www.yiiframework.com/forum/">forum</a>,
-should you have any questions.</p>
+
+
+
+
+
+
+
+
+
+
+
